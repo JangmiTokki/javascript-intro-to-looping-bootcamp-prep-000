@@ -16,7 +16,11 @@ function forLoop(array)
 
 function whileLoop(n)
 {
-  
+  var count = n;
+  while(count > 0)
+  {
+    
+  }
 }
 
 function doWhileLoop(num)
