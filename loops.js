@@ -19,7 +19,8 @@ function whileLoop(n)
   var count = n;
   while(count > 0)
   {
-    
+    console.log(count);
+    count--;
   }
 }
 
